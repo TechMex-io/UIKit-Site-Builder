@@ -7,8 +7,8 @@
 Clone the repository.
 
 ```
-git clone git://github.com/uikit/uikit.git
-cd uikit
+git clone https://github.com/TechMex-io/UIKit-Site-Builder
+cd UIKit-Site-Builder
 ```
 
 Install the Node dependencies.
